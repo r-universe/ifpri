@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ifpri/ifpri.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "DOORMAT"]
+	path = DOORMAT
+	url = https://github.com/IFPRI/DOORMAT
+	shallow = true
+	registered = true
+[submodule "reportIMPACT"]
+	path = reportIMPACT
+	url = https://github.com/IFPRI/reportIMPACT
+	shallow = true
+	registered = true
+[submodule "ARIA"]
+	path = ARIA
+	url = https://github.com/IFPRI/ARIA
+	shallow = true
+	registered = true
