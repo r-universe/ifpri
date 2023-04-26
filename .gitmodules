@@ -8,3 +8,13 @@
 	url = https://github.com/IFPRI/DOORMAT
 	shallow = true
 	registered = true
+[submodule "reportIMPACT"]
+	path = reportIMPACT
+	url = https://github.com/IFPRI/reportIMPACT
+	shallow = true
+	registered = true
+[submodule "ARIA"]
+	path = ARIA
+	url = https://github.com/IFPRI/ARIA
+	shallow = true
+	registered = true
