@@ -4,5 +4,11 @@
     "url": "https://github.com/IFPRI/DOORMAT",
     "via": ["reportIMPACT"],
     "from": "reportIMPACT"
+  },
+  {
+    "package": "magclass",
+    "url": "https://github.com/pik-piam/magclass",
+    "via": ["reportIMPACT"],
+    "from": "reportIMPACT"
   }
 ]
