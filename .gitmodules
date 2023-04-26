@@ -3,6 +3,11 @@
 	url = https://github.com/ifpri/ifpri.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "magclass"]
+	path = magclass
+	url = https://github.com/pik-piam/magclass
+	shallow = true
+	registered = true
 [submodule "DOORMAT"]
 	path = DOORMAT
 	url = https://github.com/IFPRI/DOORMAT
