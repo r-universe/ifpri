@@ -12,6 +12,12 @@
     "from": "reportIMPACT"
   },
   {
+    "package": "drat",
+    "url": "https://github.com/eddelbuettel/drat",
+    "via": ["DOORMAT"],
+    "from": "DOORMAT"
+  },
+  {
     "package": "magclass",
     "url": "https://github.com/pik-piam/magclass",
     "via": ["ARIA", "reportIMPACT"],

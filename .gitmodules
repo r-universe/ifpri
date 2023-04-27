@@ -23,3 +23,8 @@
 	url = https://github.com/IFPRI/ARIA
 	shallow = true
 	registered = true
+[submodule "drat"]
+	path = drat
+	url = https://github.com/eddelbuettel/drat
+	shallow = true
+	registered = false
