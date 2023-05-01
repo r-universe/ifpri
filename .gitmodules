@@ -8,6 +8,11 @@
 	url = https://github.com/r-lib/devtools
 	shallow = true
 	registered = true
+[submodule "KIRAN"]
+	path = KIRAN
+	url = https://github.com/IFPRI/KIRAN
+	shallow = true
+	registered = true
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/pik-piam/magclass
