@@ -3,6 +3,11 @@
 	url = https://github.com/ifpri/ifpri.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "devtools"]
+	path = devtools
+	url = https://github.com/r-lib/devtools
+	shallow = true
+	registered = true
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/pik-piam/magclass
