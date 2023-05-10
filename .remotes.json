@@ -26,6 +26,12 @@
   {
     "package": "drat",
     "url": "https://github.com/eddelbuettel/drat",
+    "via": ["STATEROOM"],
+    "from": "STATEROOM"
+  },
+  {
+    "package": "drat",
+    "url": "https://github.com/eddelbuettel/drat",
     "via": ["reportIMPACT", "DOORMAT"],
     "from": "reportIMPACT"
   },
