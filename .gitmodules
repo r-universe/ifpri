@@ -1,50 +1,32 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ifpri/ifpri.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
-	shallow = true
-	registered = true
 [submodule "KIRAN"]
 	path = KIRAN
 	url = https://github.com/IFPRI/KIRAN
-	shallow = true
-	registered = true
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/pik-piam/magclass
-	shallow = true
-	registered = true
 [submodule "DOORMAT"]
 	path = DOORMAT
 	url = https://github.com/IFPRI/DOORMAT
-	shallow = true
-	registered = true
 [submodule "reportIMPACT"]
 	path = reportIMPACT
 	url = https://github.com/IFPRI/reportIMPACT
-	shallow = true
-	registered = true
 [submodule "ARIA"]
 	path = ARIA
 	url = https://github.com/IFPRI/ARIA
-	shallow = true
-	registered = true
 [submodule "STATEROOM"]
 	path = STATEROOM
 	url = https://github.com/IFPRI/STATEROOM
-	shallow = true
-	registered = true
 [submodule "COLUMNIST"]
 	path = COLUMNIST
 	url = https://github.com/IFPRI/COLUMNIST
-	shallow = true
-	registered = true
 [submodule "drat"]
 	path = drat
 	url = https://github.com/eddelbuettel/drat
-	shallow = true
 	registered = false
