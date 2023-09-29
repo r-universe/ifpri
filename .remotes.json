@@ -52,5 +52,11 @@
     "url": "https://github.com/IFPRI/reportIMPACT",
     "via": ["ARIA"],
     "from": "ARIA"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "via": ["devtools"],
+    "from": "devtools"
   }
 ]

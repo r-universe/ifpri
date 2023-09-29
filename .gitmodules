@@ -33,3 +33,7 @@
 [submodule "reportIMPACT"]
 	path = reportIMPACT
 	url = https://github.com/IFPRI/reportIMPACT
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	registered = false
