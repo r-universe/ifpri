@@ -11,6 +11,9 @@
 [submodule "DOORMAT"]
 	path = DOORMAT
 	url = https://github.com/IFPRI/DOORMAT
+[submodule "GFSir"]
+	path = GFSir
+	url = https://github.com/IFPRI/GFSir
 [submodule "GTR"]
 	path = GTR
 	url = https://github.com/IFPRI/GTR
