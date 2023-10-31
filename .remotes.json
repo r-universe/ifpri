@@ -26,6 +26,12 @@
   {
     "package": "drat",
     "url": "https://github.com/eddelbuettel/drat",
+    "via": ["GFSir"],
+    "from": "GFSir"
+  },
+  {
+    "package": "drat",
+    "url": "https://github.com/eddelbuettel/drat",
     "via": ["STATEROOM"],
     "from": "STATEROOM"
   },
