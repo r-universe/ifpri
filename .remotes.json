@@ -26,6 +26,12 @@
   {
     "package": "drat",
     "url": "https://github.com/eddelbuettel/drat",
+    "via": ["EFFORT"],
+    "from": "EFFORT"
+  },
+  {
+    "package": "drat",
+    "url": "https://github.com/eddelbuettel/drat",
     "via": ["GFSir"],
     "from": "GFSir"
   },
