@@ -29,10 +29,6 @@
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
-[submodule "drat"]
-	path = drat
-	url = https://github.com/eddelbuettel/drat
-	registered = false
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/pik-piam/magclass
