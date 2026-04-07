@@ -29,6 +29,9 @@
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
+[submodule "luh2impact"]
+	path = luh2impact
+	url = https://github.com/IFPRI/luh2impact
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/pik-piam/magclass
