@@ -8,6 +8,9 @@
 [submodule "COLUMNIST"]
 	path = COLUMNIST
 	url = https://github.com/IFPRI/COLUMNIST
+[submodule "CRIO"]
+	path = CRIO
+	url = https://github.com/IFPRI/CRIO
 [submodule "DOORMAT"]
 	path = DOORMAT
 	url = https://github.com/IFPRI/DOORMAT
